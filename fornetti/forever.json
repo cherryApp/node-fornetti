@@ -1,0 +1,8 @@
+{
+	"uid": "fornetti",
+    "append": true,
+    "watch": true,
+    "script": "app.js",
+    "minUptime": 1000,
+    "spinSleepTime": 1000
+}
