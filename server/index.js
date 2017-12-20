@@ -105,3 +105,5 @@ var readJSON = (filePath, callBack) => {
 
 // Szinkron olvasás.
 var jsonData = fs.readFileSync("./data/inventory.json", "utf8");
+
+// Teszt.
